@@ -1,6 +1,7 @@
 # charlie-morris-corrected-ino
 
-This file was made and publicly posted by Charlie Morris, ZL2CTM.
+This file was made and publicly posted by Charlie Morris, ZL2CTM. More details in his video at:
+https://www.youtube.com/watch?v=XpxEs2_0ygg&feature=em-comments
 
 The two required libraries:
 

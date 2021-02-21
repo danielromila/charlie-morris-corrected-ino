@@ -1,7 +1,7 @@
 # charlie-morris-corrected-ino
 
 This file was made and publicly posted by Charlie Morris, ZL2CTM. More details in his video at:
-https://www.youtube.com/watch?v=XpxEs2_0ygg&feature=em-comments
+https://www.youtube.com/watch?v=XpxEs2_0ygg&feature=em-comments As he posted it, it did not work for me and for others. So I corrected it. You can also see pictures with it in function, also in this folder, and with the outputs verified on my dogital oscilooscope, also connected to the computer.
 
 The two required libraries:
 

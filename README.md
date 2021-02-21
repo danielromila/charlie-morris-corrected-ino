@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=XpxEs2_0ygg&feature=em-comments As he posted it,
 The two required libraries:
 
 #include <LiquidCrystal_I2C.h> //fmalpartida library, from https://github.com/fmalpartida/New-LiquidCrystal , updated November 24th 2020
+                               // if you have already a library LiquidCrystal_I2C in your library folder you need to delete it (or move it), 
+                               //                    otherwise will interfere with the useful library
 #include <si5351.h> // Adafruit Si5351 library, version 1.2.0
 
 Some corrections I made:

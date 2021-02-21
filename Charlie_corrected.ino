@@ -1,5 +1,7 @@
 #include <LiquidCrystal_I2C.h> //fmalpartida library, from https://github.com/fmalpartida/New-LiquidCrystal , updated November 24th 2020
-#include <si5351.h> // Adafruit Si5351 library, version 1.2.0
+                               // if you have already a library LiquidCrystal_I2C in your library folder you need to delete it (or move it), 
+                               //             otherwise will interfere with the useful library
+#include <si5351.h>            // Adafruit Si5351 library, version 1.2.0
 
 static const long bandStart = 3500000;          // start of VFO range
 static const long bandEnd =   3900000;          // end of VFO range
